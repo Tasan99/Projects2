@@ -1,0 +1,6 @@
+Verbosity leads to unclear, inarticulate things.
+41 8
+a 3
+66 2 X86isEasy
+aaaafc
+2 5 4 3 1 6
